@@ -1,17 +1,25 @@
 import java.io.*;
- 
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.List;
+
 
 public class Test {
     public static void main(String[] args) {
-        Flags f = Flags.TRUE;
+        List aman = new ArrayList<Object>();
+        test(aman);
     }
+
+    public static void test(Collection<Object> a){
+
+    }
+
 }
 
 enum Flags{
-    TRUE("t"),FALSE("f"),A("z");
-    private String a;
+    TRUE,FALSE,A;
 
-    Flags(String a){
+    private Flags(){
         System.out.println("g");
     }
 }
