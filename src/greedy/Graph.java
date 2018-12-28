@@ -36,5 +36,11 @@ public class Graph {
     public int compareTo(Edge o) {
         return this.weight-o.weight;
     }
-}
+
+     @Override
+     public boolean equals(Object obj) {
+        Edge edge = (Edge)obj;
+         return this.src == edge.src && this.dest ==edge.dest;
+     }
+ }
 
