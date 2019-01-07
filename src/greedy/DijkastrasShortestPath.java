@@ -67,7 +67,7 @@ public class DijkastrasShortestPath {
     {
         System.out.println("Vertex   Distance from Source");
         for (int i = 0; i < dist.length; i++)
-            System.out.println(i+" tt "+dist[i]);
+            System.out.println("node : "+i+" Distance from given node "+dist[i]);
     }
 
 }
