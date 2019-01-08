@@ -1,10 +1,19 @@
-import java.time.LocalDate;
+import java.util.HashMap;
+import java.util.Iterator;
 
 public class Aman {
 
 	public static void main(String...args) {
-		LocalDate date = LocalDate.ofEpochDay(365);
-		System.out.println(date);
+
+        HashMap<String, String> map = new HashMap<>();
+        map.put("a", "a");
+        map.put("b", "b");
+        Iterator<String> iter = map.keySet().iterator();
+        while (iter.hasNext()) {
+            System.out.println(iter.next());
+            map.put("c", "m");
+        }
+
 
 	}
 }
