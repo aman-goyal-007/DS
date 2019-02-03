@@ -23,3 +23,13 @@ R
 "src/dynamic/MaximumCoinChange.java,4\1\4156c220ea51d5cbdc0177cd325d33a17b32963b
 E
 src/UrlShortning.java,7\9\7999f74e94a420330614925f3c3918065a792a31
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+Z
+*src/string/LongestPalindromeSubString.java,7\8\782f73b088f308d2e4e58f2e4252b9c07bd4b02c
+C
+src/string/KMP.java,e\e\ee812f9383dbee542e12fe57ae73c7bc5cb705f6
+M
+src/string/AllSubstrings.java,8\e\8eb4925aeed0e66fc23f9965585810fe9c1d163e
+^
+.src/misc/LongestSubArrayMoreOnesThanZeros.java,b\9\b929f54b029b49fe4d647c5852ce38ede13ca50e
