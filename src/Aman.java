@@ -1,21 +1,14 @@
-import java.util.HashMap;
-import java.util.Iterator;
-
 public class Aman {
 
 	public static void main(String...args) {
 
-        HashMap<String, String> map = new HashMap<>();
-        map.put("a", "a");
-        map.put("b", "b");
-        Iterator<String> iter = map.keySet().iterator();
-        while (iter.hasNext()) {
-            System.out.println(iter.next());
-            map.put("c", "m");
-        }
+      String a = "aman goyal";
+        System.out.println(a.replace(" ",""));
+        double d = 2.1;
+        System.out.println(Math.floor(d));
 
 
-	}
+    }
 }
 
 class A implements AutoCloseable{
