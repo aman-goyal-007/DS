@@ -1,16 +1,10 @@
 package greedy;
-
-
-
-
-
 /*
 
 Algorithm to find cycle in a graph
 
 Union by rank and path compression in which is implemented using array in which parent will change itself to the top.
 Though we are not merging 2 disjoint tree until we have a link.
-
 
 */
 public class UnionFindDetectCycle {

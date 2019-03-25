@@ -62,6 +62,7 @@ public class LinkedList {
 	public void reverse() {
 		head = reverseUtil(head);
 		System.out.println("Hello");
+
 	}
 
 	private ListNode reverseUtil(ListNode node) {

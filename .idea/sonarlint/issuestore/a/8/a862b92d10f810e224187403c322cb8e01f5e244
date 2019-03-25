@@ -1,5 +1,10 @@
 
-¤squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¬Ù•ûÿÿÿÿ8şÕøş,
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(Š—œ‘
 1squid:S1220""Move this file to a named package.
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(³×ıÿÿÿÿ8Å‰…™-
+gsquid:S2583""DChange this condition so that it does not always evaluate to "false"(×”Æùÿÿÿÿ8Å‰…™-
+Zsquid:S2589"7Remove this expression which always evaluates to "true"(’ûíøÿÿÿÿ8Å‰…™-
+Wsquid:S1854"9Remove this useless assignment to local variable "valid".(è¬£‡8Å‰…™-
+\squid:S1854"9Remove this useless assignment to local variable "valid".(ÑÃÍòüÿÿÿÿ8Å‰…™-
+gsquid:UselessImportCheck"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8Å‰…™-
+hsquid:UselessImportCheck"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8Å‰…™-
