@@ -22,7 +22,7 @@ public class MaximumSubarraySum {
         for(int i=0;i<length;i++){
             prefix = (prefix+a[i])%m;
             max=Math.max(prefix,max);
-            Long lon =tree.ceiling(prefix);
+            Long lon = tree.ceiling(prefix);
             if(lon!=null){
                 max =   Math.max(max,(prefix-lon+m)%m);
             }

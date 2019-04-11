@@ -4,9 +4,9 @@ import java.util.Arrays;
 
 public class CoinChange {
     public static void main(String[] args) {
-        int[] denomination = {1,2,3};
-        howManyWays(denomination,4);
-        minNoOfCoinsRequired(denomination,4);
+        int[] denomination = {9,6,5,1};
+        howManyWays(denomination,11);
+        minNoOfCoinsRequired(denomination, 11);
     }
 
 //bottom up tabulation approach
@@ -20,8 +20,8 @@ public class CoinChange {
 							1	1	2	2	3
 							1	1	2	3	4
      */
-    public static void howManyWays(int[] denomination, int total){
-        int table[] = new int[total+1];
+    private static void howManyWays(int[] denomination, int total){
+        int[] table = new int[total + 1];
         table[0] = 1;
         for(int i=0;i<denomination.length;i++){
             for(int j=denomination[i];j<=total;j++){
@@ -45,25 +45,21 @@ some first coin di
 be the optimal solution to making change for p − di cents, since coin changing exhibits optimal substructure
 as proven above. Thus, if di
 is the first coin in the optimal solution to making change for p cents, then
-C[p] = 1 +C[p−di
-]; i.e., one di coin plus C[p−di
-] coins to optimally make change for p−di cents. We don’t
+C[p] = 1 +C[p−di]; i.e., one di coin plus C[p−di] coins to optimally make change for p−di cents. We don’t
 know which coin di
 is the first coin in the optimal solution to making change for p cents; however, we may
 check all k such possibilities (subject to the constraint that di ≤ p), and the value of the optimal solution
 must correspond to the minimum value of 1 + C[p − di
 ], by definition. Furthermore, when making change
 for 0 cents, the value of the optimal solution is clearly 0 coins. We thus have the following recurrence.
-Claim 2 C[p] = 
-0 if p = 0
-mini:di≤p{1 + C[p − di
-]} if p > 0
+Claim 2 C[p] = 0 if p = 0
+mini:di≤p{1 + C[p − di]} if p > 0
      */
-    public static void  minNoOfCoinsRequired(int[] denomination, int total){
+    private static void  minNoOfCoinsRequired(int[] denomination, int total){
         int[] solutionArr = new int[total+1];
         Arrays.fill(solutionArr,Integer.MAX_VALUE);
         solutionArr[0] = 0;
-        int setOfCoin[] = new int[total+1];
+        int[] setOfCoin = new int[total + 1];
 
         for(int i=1;i<=total;i++){
             for(int j=0;j<denomination.length;j++){
@@ -86,11 +82,14 @@ mini:di≤p{1 + C[p − di
             total = total-denomination[setOfCoin[total]];
         }
     }
-
     public static void printArr(int[] arr){
         for(int a=0;a<arr.length;a++) System.out.print(arr[a]+" ");
-        System.out.println("");
+        System.out.println();
     }
+
+
+
+
 }
 
 

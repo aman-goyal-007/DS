@@ -19,8 +19,6 @@ K
 src/dynamic/CoinChange.java,0\f\0f6b4c35d8f9fc714b3f3221a5376c8d903eaea9
 =
 src/Trie.java,c\3\c399f83a93ad65f5c90180908aee433c8aaee3bf
-R
-"src/dynamic/MaximumCoinChange.java,4\1\4156c220ea51d5cbdc0177cd325d33a17b32963b
 E
 src/UrlShortning.java,7\9\7999f74e94a420330614925f3c3918065a792a31
 S
@@ -47,3 +45,35 @@ Q
 !src/hackersrank/LilyHomeWork.java,2\3\23323589366586b6f44dd820df579cca12290614
 E
 src/misc/MaxFlow.java,d\8\d858dc8544f9211eeb9fa7ab69aefef4504bd637
+X
+(src/hackersrank/SherlockAndAnagrams.java,9\c\9c1ea0b206d315163b9dfd36066a3270ff616cc5
+P
+ src/hackersrank/ChiefHopper.java,4\e\4e8399f3fd5b7c79474835cce1c3c22582d79082
+P
+ src/hackersrank/JimAndOrder.java,5\6\563c8bcddcb05d399f6588d4436d977e22e6d86a
+U
+%src/hackersrank/SherlockAndArray.java,d\1\d130a86cc134ad98459da600ba6bda50e610eea8
+X
+(src/hackersrank/GoodlandElectricity.java,6\5\6530448326fc5eaee935641ba52c0f73829f7dc8
+L
+src/dynamic/SimilarPair.java,f\6\f6566c2e3d0808b25b602cf6a10e94b730d39091
+P
+ src/dynamic/BinaryIndexTree.java,1\8\18d49af268f73f089182e751fc55f1ca019098f2
+W
+'src/hackersrank/MaximumSubarraySum.java,2\4\24671623fa8e0d1103b71e6b9618448e2d7e9615
+V
+&src/hackersrank/ArrayManipulation.java,0\1\01a849e8431fdf36bcc98121d902d70f231b3055
+N
+src/hackersrank/CloudyDay.java,7\e\7e4b5c6d924337c0466a9d89b1126dd053bf86ee
+X
+(src/misc/MaximumPossibleStolenValue.java,7\f\7fddffa77066cc215ea99210df4b38f0315c8aba
+T
+$src/misc/FlipToMakeAlternatives.java,e\0\e0cec7341c238fbf3f36c98d3edeb24a4a57862e
+V
+&src/hackersrank/MaximumCoinChange.java,a\e\ae80677eb6cc1f680d1344d0bc40cf962c808f80
+Y
+)src/dynamic/LongestCommonSubsequence.java,1\c\1ca0c3cd35ad14aba8637455968e665cbb7f84bf
+\
+,src/greedy/LongestIncreasingSubsequence.java,8\7\870ace3470cb0841e9ec445984f918a148ea5125
+P
+ src/hackersrank/NoPrefixSet.java,e\6\e637ebba065b45b79cbada664e5fba2c51a4967b

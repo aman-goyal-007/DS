@@ -1,10 +1,10 @@
-package dynamic;
+package hackersrank;
 
 import java.util.Arrays;
 
 public class MaximumCoinChange {
     public static void main(String[] args) {
-        int coins[] = new int[]{9,6,5,1};
+        int[] coins = new int[]{9, 6, 5, 1};
         solve(coins,coins.length,11);
 
     }
