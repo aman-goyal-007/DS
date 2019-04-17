@@ -1,0 +1,19 @@
+
+ysquid:S00116'"ZRename this field "TOTAL_ALPHABETS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í¶ğ¬8è÷áŸ-
+?squid:S1170'"!Make this final field static too.(Í¶ğ¬8è÷áŸ-
+Lsquid:S1481V")Remove this unused "node" local variable.(ÈÊÿÿÿÿÿ8è÷áŸ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Íç´·8è÷áŸ-
+Msquid:S00108V")Either remove or fill this block of code.(ÈÊÿÿÿÿÿ8è÷áŸ-
+[
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(±¯Á£şÿÿÿÿ8è÷áŸ-
+Gsquid:S1481")Remove this unused "word" local variable.(í‚ê8‘¨ƒáŸ-
+V
+squid:S106!"9Replace this use of System.out or System.err by a logger.(¢Ë£Ú8Ã°–áŸ-
+Jsquid:S1612",Replace this lambda with a method reference.( ˆÆ8àâüàŸ-
+Vsquid:S1854"8Remove this useless assignment to local variable "word".(í‚ê8‘¨ƒáŸ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹§³›øÿÿÿÿ8‡°’áŸ-
+[
+squid:S106d"9Replace this use of System.out or System.err by a logger.(£äÇˆüÿÿÿÿ8è÷áŸ-
+:squid:S1643P"Use a StringBuilder instead.(÷„¸ã8è÷áŸ-

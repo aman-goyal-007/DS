@@ -3,23 +3,17 @@ import java.util.Arrays;
 
 public class Test {
     public static void main(String[] args) {
-        int[] a = {2,5,6,0,0,0};
-        int[] b = {1,2,3};
-        int m=3;
-        int n=3;
-        int length = a.length-1;
-        m--;
-        n--;
-        while(n>=0){
-            if(m>=0 && a[m]>b[n]){
-                a[length] = a[m];
-                m--;
-            }else{
-                a[length] = b[n];
-                n--;
-            }
-            length--;
-        }
-        Arrays.stream(a).forEach(System.out::println);
+      String ss = "972698438521";
+      long mod7 = 1000000007;
+        long val = Integer.valueOf(ss.charAt(0)+"");
+        long ans = Integer.valueOf(ss.charAt(0)+"");
+      for(int i=1;i<ss.length();i++){
+          val = 10*val+(Integer.valueOf(ss.charAt(i)+"")*(i+1));
+            val = val%mod7;
+
+          ans += val;
+      }
+        System.out.println(ans%mod7);
+
     }
 }

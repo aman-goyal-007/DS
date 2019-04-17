@@ -1,5 +1,6 @@
 
-hsquid:UselessImportCheck"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8°éžÎ›-
-isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(žà±ü8Ü¼öëœ-
 [
-squid:S106"9Replace this use of System.out or System.err by a logger.(Š¬¼Õùÿÿÿÿ8¶€òëœ-
+squid:S106	"9Replace this use of System.out or System.err by a logger.(‡¯±’ùÿÿÿÿ8½í„ƒ¡-
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ŒÜË€¡-
+Xsquid:S1854"5Remove this useless assignment to local variable "s".(÷åÞŒøÿÿÿÿ8¤Ïþ„¡-
+Isquid:S1481"&Remove this unused "s" local variable.(÷åÞŒøÿÿÿÿ8¤Ïþ„¡-

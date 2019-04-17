@@ -1,0 +1,5 @@
+
+psquid:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(‘ÙäÚ
+?squid:S1481)"(Remove this unused "sol" local variable.(ØÔ‘ƒ
+Csquid:S1612)",Replace this lambda with a method reference.(ØÔ‘ƒ
+Nsquid:S1854)"7Remove this useless assignment to local variable "sol".(ØÔ‘ƒ
