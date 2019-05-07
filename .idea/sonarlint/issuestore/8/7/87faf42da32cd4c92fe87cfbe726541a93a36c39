@@ -1,7 +1,0 @@
-
-Fsquid:S1172B"(Remove this unused method parameter "n".(Œ¬èø8Ÿç¢®ÿ,
-Vsquid:S1197B"8Move the array designator from the variable to the type.(Œ¬èø8Ÿç¢®ÿ,
-[
-squid:S106F"9Replace this use of System.out or System.err by a logger.(«åÑ¯ûÿÿÿÿ8Ÿç¢®ÿ,
-V
-squid:S106D"9Replace this use of System.out or System.err by a logger.(ˆÂ¦¡8Ÿç¢®ÿ,

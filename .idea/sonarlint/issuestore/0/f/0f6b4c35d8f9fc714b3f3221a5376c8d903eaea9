@@ -1,15 +1,0 @@
-
-T
-squid:S106W"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
-bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(â±¢
-T
-squid:S106V"9Replace this use of System.out or System.err by a logger.(Ž²Ž•øÿÿÿÿ
-N
-squid:S106Q"9Replace this use of System.out or System.err by a logger.(ƒ–
-O
-squid:S106O"9Replace this use of System.out or System.err by a logger.(þáÝÐ
-Ksquid:S1066C"/Merge this if statement with the enclosing one.(Þðûÿÿÿÿ
-O
-squid:S106 "9Replace this use of System.out or System.err by a logger.(×¤ª˜
-T
-squid:S106K"9Replace this use of System.out or System.err by a logger.(ò­ÙÔøÿÿÿÿ

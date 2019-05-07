@@ -1,12 +1,0 @@
-
-?squid:S1643"Use a StringBuilder instead.(ÎÚãÔùÿÿÿÿ8æˆ´Ì‹-
-¤%squid:RedundantThrowsDeclarationCheck$"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8Å ±Ì‹-
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(ú…‡ì8¶ä´Ì‹-
-Asquid:S2153"Remove the boxing to "Double".(ï—ÓÕøÿÿÿÿ8– ŒÌ‹-
-Csquid:S2129" Remove this "Double" constructor(ŸÈ¯†üÿÿÿÿ8– ŒÌ‹-
-Asquid:S2153"Remove the boxing to "Double".(ŸÈ¯†üÿÿÿÿ8– ŒÌ‹-
-?squid:S1643"Use a StringBuilder instead.(¦ÖÒœøÿÿÿÿ8Å ±Ì‹-
-Asquid:S2153
-"Remove the boxing of "length".(öŒþ»ÿÿÿÿÿ8– ŒÌ‹-
-Csquid:S2129" Remove this "Double" constructor(ï—ÓÕøÿÿÿÿ8– ŒÌ‹-

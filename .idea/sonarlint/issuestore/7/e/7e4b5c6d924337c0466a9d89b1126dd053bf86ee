@@ -1,14 +1,0 @@
-
-Bsquid:S1659	"Declare "x" on a separate line.(İÏğúÿÿÿÿ8²üŒÎ›-
-Bsquid:S1659	"Declare "y" on a separate line.(İÏğúÿÿÿÿ8²üŒÎ›-
-Bsquid:S1659	"Declare "r" on a separate line.(İÏğúÿÿÿÿ8²üŒÎ›-
-Bsquid:S1659D"Declare "x" on a separate line.(ôö„»üÿÿÿÿ8²üŒÎ›-
-Bsquid:S1659D"Declare "y" on a separate line.(ôö„»üÿÿÿÿ8²üŒÎ›-
-Bsquid:S1659D"Declare "r" on a separate line.(ôö„»üÿÿÿÿ8²üŒÎ›-
-isquid:CommentedOutCodeLine
-"<This block of commented-out lines of code should be removed.(ø•„Ş8²üŒÎ›-
-V
-squid:S106@"9Replace this use of System.out or System.err by a logger.(¹ˆŠÖ8²üŒÎ›-
-[
-squid:S106f"9Replace this use of System.out or System.err by a logger.(ÇçÖòûÿÿÿÿ8²üŒÎ›-
-psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(Çµí‘8²üŒÎ›-

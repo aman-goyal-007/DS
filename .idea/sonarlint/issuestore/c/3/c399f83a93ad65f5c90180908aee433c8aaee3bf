@@ -1,20 +1,0 @@
-
-Lsquid:S1481D")Remove this unused "node" local variable.(ÈÊÿÿÿÿÿ8¡±•è‚-
-?squid:S1170"!Make this final field static too.(Í¶ğ¬8õ¾—å‚-
-V
-squid:S106/"9Replace this use of System.out or System.err by a logger.(Î šÂ8áÔƒæ‚-
-[
-squid:S106R"9Replace this use of System.out or System.err by a logger.(£äÇˆüÿÿÿÿ8©Ù¬æ‚-
-ysquid:S00116"ZRename this field "TOTAL_ALPHABETS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í¶ğ¬8õ¾—å‚-
-[
-squid:S106G"9Replace this use of System.out or System.err by a logger.(±¯Á£şÿÿÿÿ8˜¹ıç‚-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ğ™Î×üÿÿÿÿ8û€Šè‚-
-V
-squid:S106("9Replace this use of System.out or System.err by a logger.(õú¥8í»ûç‚-
-:squid:S1643>"Use a StringBuilder instead.(÷„¸ã8İ¬æ‚-
-[
-squid:S1063"9Replace this use of System.out or System.err by a logger.(ªñì°úÿÿÿÿ8ğÑ„æ‚-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(æı³øÿÿÿÿ8 À…è‚-
-Msquid:S00108D")Either remove or fill this block of code.(ÈÊÿÿÿÿÿ8¡±•è‚-

@@ -1,10 +1,0 @@
-
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ï—ñ8ñã¬ÿ,
-Gsquid:S1659!"$Declare "weight" on a separate line.(“Ï¹ùÿÿÿÿ8£ñ¦¬ÿ,
-Esquid:S1659!""Declare "dest" on a separate line.(“Ï¹ùÿÿÿÿ8£ñ¦¬ÿ,
-nsquid:S1206)"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã8Œœ»­ÿ,
-psquid:S00116"LRename this field "E" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¸ˆ¬şÿÿÿÿ8’¼Şş,
-=squid:S2097)"Add a type test to this method.(ÜÑã8øï½­ÿ,
-`squid:S2259+"BA "NullPointerException" could be thrown; "edge" is nullable here.(†‘¼ø8â…¾­ÿ,
-psquid:S00116"LRename this field "V" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê³¶ˆùÿÿÿÿ8’¼Şş,
