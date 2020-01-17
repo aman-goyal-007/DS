@@ -1,6 +1,4 @@
-package array;
-
-import java.util.Arrays;
+package sortingAndsearching;
 
 /*
 Merge two sorted arrays while first array has extra and enough space.
