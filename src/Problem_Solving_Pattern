@@ -1,1 +1,26 @@
-Pattern 1: If the given input is sorted (array, list or matrix), then we will be using a variation of Binary Search or a Two Pointer Straregy.
+Pattern 1: If the given input is sorted (array, list or matrix), then we will be using a variation of Binary Search or a Two Pointer Strategy.
+
+Pattern 2: If we are dealing with top/maximum/minimum/closest 'k' elements among 'n' elements, we will be using Heap.
+
+Pattern 3: If we need to try all combinations( or permutations) of the input, we can either use recursive backtracking
+            or iterative breadth first search.
+
+Pattern 4: Most of the questions related to Tree or Graph can be solved using BFS/DFS
+
+Pattern 5: Every recursive solution can be converted to an iterative solution using Stack
+
+Pattern 6: If for a problem, there exists a brute-force solution in O(n^2) time and O(1) space,
+            there must exists two other solution: 1) Using a Map or Set for O(n) time and O(n) space
+            2) Using sorting for O(nlog(n)) time and O(1) space
+
+Pattern 7: If a problem asking for optimization ( e.g. maximization or minimization), we will need to use
+            Dynamic Programming to solve it.
+
+Pattern 8: If need to find some common substring among a set of string, we will be using Hashmap or Trie.
+
+Pattern 9: If we need to search among a bunch of string, Trie will be the best data structure.
+
+Pattern 10: If a problem involves a LinkedList and we can't use extra space, then use Fast and Slow Pointer approach.
+
+
+
